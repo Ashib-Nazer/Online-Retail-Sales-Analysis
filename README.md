@@ -13,7 +13,7 @@ Tools Used
 
 ## Dashboard Preview
 
-![Online Retail Dashboard](online_stock_analysis.jpeg)
+![Online Retail Dashboard](online_retail_sales_analysis.jpeg)
 
 Dashboard Features
 
